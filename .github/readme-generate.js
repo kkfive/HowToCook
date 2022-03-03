@@ -64,6 +64,7 @@ let README_TEMPLATE = `# 程序员做饭指南
 
 {{before}}
 ## 菜谱
+
 ### 家常菜
 {{main}}
 ## 进阶知识学习
@@ -137,7 +138,7 @@ async function getAllMarkdown(path) {
 }
 
 function inlineTemplate(file, path) {
-  return `* [${file.replace('.md', '')}](${path}/${file})\n`;
+  return `- [${file.replace('.md', '')}](${path}/${file})\n`;
 }
 
 function categoryTemplate(title, inlineStr) {

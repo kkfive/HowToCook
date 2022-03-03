@@ -32,6 +32,7 @@
 * [学习煮](./tips/learn/学习煮.md)
 
 ## 菜谱
+
 ### 家常菜
 
 ### 素菜
@@ -108,6 +109,7 @@
 
 * [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
 * [煎饺](./dishes/breakfast/煎饺.md)
+* [空气炸锅面包片](./dishes/breakfast/空气炸锅面包片.md)
 * [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
 * [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
 * [水煮玉米](./dishes/breakfast/水煮玉米.md)
